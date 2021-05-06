@@ -4,4 +4,6 @@
 
 ### Event-Driver Architecture With Apache Kafka
 
+Projeto base para a estrutura: [handson-event-driven](https://github.com/normandesjr/handson-event-driven)
+
 
